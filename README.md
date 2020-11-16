@@ -2,4 +2,6 @@
 
 An analysis of the Titanic sinking using ML models Random Forest and Logistic Regression to predict survivability factors.
 
-![screenshot](imgs/titanic-ship)
+Here is a link to the [kaggle competition] (https://www.kaggle.com/c/titanic)
+
+![screenshot](imgs/titanic-ship.jpg)
