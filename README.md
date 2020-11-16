@@ -14,3 +14,10 @@ Because there are categorical data columns such as gender, dummy columns were cr
 ![graph1](pngs/random_forest_weights.png)
 Next, a logistic regression model was used, and the R-squared would fall around 82%. Similarly to the random forest, the coefficients can be found for each variable to determine the affect on survivability.
 ![graph2](pngs/logistic_regression_coefs.png)
+
+## Analysis
+It is very interesting how both of the models found different variables and features to affect the survival of the passengers. One feature that seemed to have an effect in both models were the gender/sex. It appears females had higher surivability and that could be caused by the common "ladies first" or "save women and children first" ideologies.
+
+## Resources, Libraries, & Tools
+[SciKitLearn](https://scikit-learn.org/stable/)
+[Matplotlib](https://matplotlib.org/)
